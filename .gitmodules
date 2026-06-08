@@ -1,7 +1,7 @@
 [submodule "baselines/openpi"]
 	path = baselines/openpi
-	url = https://github.com/wensi-ai/openpi.git
-	branch = behavior
+	url = https://github.com/fdutristin/openpi.git
+	branch = behavior/subtask
 [submodule "baselines/il_lib"]
 	path = baselines/il_lib
 	url = https://github.com/wensi-ai/il_lib.git
